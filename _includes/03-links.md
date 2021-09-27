@@ -1,1 +1,1 @@
-![Git Profile] (https://github.com/ChasGoldstein)
+[Git Profile](https://github.com/ChasGoldstein)
